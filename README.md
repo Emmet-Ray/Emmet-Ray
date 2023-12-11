@@ -2,12 +2,12 @@
 ## Hi there 👋
 
 <!-- to do: add more items about me -->
-My name is roland.
+**My name is _roland_.**
 
 
 
 
-<details open>
+<details>
 <summary>My top programming language</summary>
 
 | Rank | programming language |
@@ -22,18 +22,10 @@ My name is roland.
 > what I can not create, I do not understand. \
 > -- richard feyman
 
+~~misktaken words~~
+world<sup>[1]</sup>
+> here is a **_quote_** \
+> hello, world
 
-<!--
-**llmmt/llmmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+use `git status` to check the status \
+[github pages](https://pages.github.com/)
