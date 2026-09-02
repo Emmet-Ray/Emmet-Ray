@@ -1,4 +1,7 @@
-### Hi there 👋
+## Selected projects
+
+- [skills](https://github.com/Emmet-Ray/skills) — My personal reusable skills and workflows.
+- [dotfiles](https://github.com/Emmet-Ray/dotfiles) - Dotfiles for my macOS.
 
 <!--
 **llmmt/llmmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
