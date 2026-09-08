@@ -1,6 +1,7 @@
 ## Selected projects
 
 - [skills](https://github.com/Emmet-Ray/skills) — My personal reusable skills and workflows.
+- [music_benchmark](https://github.com/Emmet-Ray/music_benchmark) - My music-related tests for AIs/Agents.
 - [dotfiles](https://github.com/Emmet-Ray/dotfiles) - Dotfiles for my macOS.
 
 <!--
